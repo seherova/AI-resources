@@ -1,6 +1,6 @@
-# AI Resources Repository
+# Machine Learning - Artificial Intelligence Resources Repository
 
-Bu repo, yapay zeka konularında öğrenme kaynaklarını bir arada toplamak için oluşturulmuştur. Kitaplar, tutorial'lar, videolar ve veri setleri gibi farklı türde içerikleri içerir.
+This repository has been created to gather Machine Learning and Artificial Intelligence resources in one place.
 
 ## Course List
 
