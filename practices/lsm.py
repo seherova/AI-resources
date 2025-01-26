@@ -1,5 +1,6 @@
 import numpy as np
 
+## Least Squares Solution for a Line Passing Through Three Points
 
 A = np.array([[-1,1], [0,1], [2,1]])
 B = np.array([[1], [1], [1]])
